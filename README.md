@@ -1,6 +1,6 @@
 🙋🏽‍♂️ Iago Alves
 
-👩‍💻 Desenvolvedor Back-end (C#)
+👩‍💻 Desenvolvedor Back-end (C#) e QA 
 
 📃 Eterno estudante das linguagens de programação 
 ##
